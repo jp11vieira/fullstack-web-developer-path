@@ -12,7 +12,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 
 | Progress | Type      | Item                                                                                                                                                                        | Project(s) | Date |
 | :------: | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | :--: |
-|          | Project   | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage)                                                  |            |      |
+|    1%    | Project   | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage)                                                  |            |      |
 |          | Course    | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/)                                                                             |            |      |
 |          | Course    | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/)                                                                       |            |      |
 |          | Project   | Refactor the portfolio site layout and CSS using Flexbox and Sass                                                                                                           |            |      |
